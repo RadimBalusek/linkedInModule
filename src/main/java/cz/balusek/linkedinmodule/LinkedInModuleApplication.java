@@ -8,6 +8,8 @@ public class LinkedInModuleApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(LinkedInModuleApplication.class, args);
+        System.out.println("");
+
     }
 
 }
